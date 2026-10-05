@@ -1,0 +1,5 @@
+facility,project_id,project_name,panel_type,planned_units,completed_units,qa_hold_units,previous_qa_hold_units,planned_labor_hours,actual_labor_hours,planned_dispatch,actual_dispatch,material_shortage_units
+NGi Manufacturing Facility,4821,Miller Children's Medical Office,Sto exterior,48,36,2,2,156,171,2026-10-05,,0
+NGi Manufacturing Facility,4829,North Harbor Retail Renovation,Sheathing wall panels,32,32,0,0,104,99,2026-10-02,2026-10-02,0
+NGi Manufacturing Facility,4855,Civic Center Education Building,Load-bearing,40,24,9,2,160,152,2026-10-06,,12
+NGi Manufacturing Facility,4872,Riverside Logistics Facility,Drywall shapes,56,56,1,1,112,119,2026-10-01,2026-10-02,0
