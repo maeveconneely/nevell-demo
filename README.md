@@ -2,6 +2,14 @@
 
 A prototype of a project-operations workflow for a specialty construction contractor. It combines project email, a watched prefab schedule, role-specific dashboard views, alerts, and human-approved work products. It is intended for exploration and a first-meeting demo; it is not a production system and it is not connected to Nevell Group's live business systems.
 
+## Who this is for and what problem it explores
+
+**Intended users:** project managers coordinating job changes; preconstruction and estimating staff pricing addenda; prefab shop/warehouse staff managing production, quality, materials, and dispatch; and executives who need a concise view of cross-project risk and follow-up.
+
+**Problem hypothesis:** project-critical changes can arrive through external vendor, general-contractor, and design-partner emails as well as shop spreadsheets. Someone must connect each change to the right project and service, understand its schedule/cost/production impact, route it to an owner, and make sure the next action happens. The demo explores whether a shared workflow can reduce manual handoffs and time-to-awareness while keeping uncertain interpretation and consequential decisions under human review.
+
+This is a hypothesis inferred from public company information, not a finding from Nevell employee interviews. The sample roles, work packages, thresholds, and data are illustrative; the first business-validation step is to ask Nevell users which handoff is actually costly and how they would measure improvement.
+
 ## Contents
 
 - [What the demo does](#what-the-demo-does)
